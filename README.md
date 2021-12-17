@@ -19,4 +19,4 @@ Who AMI?
 
 - 🔭  Senior Frontend Developer (ReactJS/TypeScript)
 - [⚡ AWS Certified Solutions Architect](https://www.credly.com/badges/8f5cbc38-09f6-402a-a696-02ef162c8c95?source=linked_in_profile)
-- [📫  How to reach me](https://www.linkedin.com/in/shakogele/)
+- [📫  Contact me :) ](https://www.linkedin.com/in/shakogele/)
