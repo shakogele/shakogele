@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 Who AMI?
 
-- 🔭  Senior Frontend Developer (ReactJS/TypeScript)
+- 🔭  Senior Software Engineer (ReactJS/TypeScript/AWS Cloud)
 - [⚡ AWS Certified Solutions Architect](https://www.credly.com/badges/8f5cbc38-09f6-402a-a696-02ef162c8c95?source=linked_in_profile)
 - [📫  Contact me :) ](https://www.linkedin.com/in/shakogele/)
